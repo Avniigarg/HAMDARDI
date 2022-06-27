@@ -1,4 +1,4 @@
-from shikwa import create_app
+from hamdardi import create_app
 
 app = create_app()
 
